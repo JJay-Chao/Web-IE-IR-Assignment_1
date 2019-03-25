@@ -5,8 +5,9 @@ File introduction:
 
 1. Dcard.py: Web crawler python code, crawling documents from Card API.
 
-2. Web_Scraping.py: This program imports Dcard.py to implement the web crawling, and lists out all available topics on Dcard. Although you can crawl all kinds of documents from Dcard by this program, assignment 1 only allows user to crawl 健身 topic.
-		    When run this program, follow the action mentioned here -> What kind of category would you like to load? 健身
+2. Web_Scraping.py: This program imports Dcard.py to implement the web crawling, and lists out all available topics on Dcard. Although you can crawl all kinds of documents from Dcard by this program, assignment 1 only allows user to crawl 健身 topic. When run this program, follow the action mentioned here -> 
+
+What kind of category would you like to load? 健身
 
 3. Search_Engine.py: Elasticsearch program.
 
