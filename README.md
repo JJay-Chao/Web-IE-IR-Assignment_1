@@ -23,13 +23,16 @@ Directory introduction:
 
 
 ******************************************Most Important Part*********************************************
+
 How to run the QA system?
 
 Answer: 1. Put those directories you have download at the same path with your python.
 	2. Open your command line.
 	3. Type in: python User_Interface.py
+	
 
 ******************************************Most Important Part*********************************************
+
 
 
 How to operate the User Interface?
