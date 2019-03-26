@@ -43,3 +43,8 @@ How to operate the User Interface?
 3. Press the "Go get it!" button to get to another page with documents and comments displayed.
 4. Press Back to Home Page button to get back to home page when you are done or would like to ask other questions.
 5. If you want to remove the data from Elasticsearch, please press "Delete Data!", and the search is over.
+
+
+
+If you have any implementation problem, feel free to E-mail me!
+vpj870331@gmail.com
